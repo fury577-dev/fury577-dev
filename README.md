@@ -34,7 +34,7 @@ Here are a few public-facing projects I've built and maintained:
 
 *   **[KeyboardChatteringFix-Linux](https://github.com/fury577-dev/KeyboardChatteringFix-Linux)**: A lightweight, low-level utility to filter keybounce/chattering events on Linux input devices.
 *   **[vit-feedback-bot](https://github.com/fury577-dev/vit-feedback-bot)**: A headless automation script using Python and Selenium for rapid academic feedback orchestration.
-*   **[quantum_void](https://github.com/fury577-dev/quantum_void)**: A sandbox experiment in systems logic and performance rendering.
+*   **[k-entropy](https://github.com/fury577-dev/k-entropy)**: A high-performance command-line utility in C that harvests true cryptographic hardware entropy directly from the Linux kernel.
 
 ---
 
